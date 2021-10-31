@@ -6,3 +6,5 @@ TCP için örnekler incelendi.
 TCP için server ve client kısmı yazıldı.
 Server kısmı Multithread mantığı ile birleştirildi.
 TCP Client güncellendi
+UDP Client eklendi 
+UDP Client tam olarak istenilen gibi çalışmıyor.
